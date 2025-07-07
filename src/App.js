@@ -15,10 +15,15 @@ function App() {
       title: "Debt Collection Training AI",
       description: "Practice professional debt collection conversations"
     },
-    'loan': {
+    'loan-cashlane-old': {
       agentId: "c263e26a-c5b1-4531-a1e0-f2610a027d4f", // Replace with actual loan agent ID
-      title: "Loan Training AI",
-      description: "Practice loan serve up questions"
+      title: "Loan-Cashlane Training AI",
+      description: "Practice cashlane loan serve up questions"
+    },
+    'cds-serve-up':{
+      agentId: "0717eaef-8b26-4df8-845e-8c7fccea4a9a",
+      title: "Loan-CDS Training AI",
+      description: "Practice CDS serve up questions"
     }
   };
 
