@@ -16,7 +16,7 @@ function App() {
       description: "Practice professional debt collection conversations"
     },
     'loan-cashlane-updated': {
-      agentId: "756abb8d-ce4f-417a-9379-c6756b2cf3ee", // Replace with actual loan agent ID
+      agentId: "3a5537da-fba9-4c93-ad8c-0e7c84eba602", // Replace with actual loan agent ID
       title: "Loan-Cashlane Training AI",
       description: "Practice cashlane loan serve up questions"
     },
